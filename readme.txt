@@ -55,3 +55,5 @@ I have also done the "JUnit test".
 I have also included a Test.java file which I used for testing.
 
 This is a maven project so a jar file can be created.
+
+Use 'assembly:single' in 'goals' while 'maven build'.
